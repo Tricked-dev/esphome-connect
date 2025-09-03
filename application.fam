@@ -1,0 +1,12 @@
+App(
+    appid="esphome_connect",
+    name="ESPHome Connect",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="esphome_connect_app",
+    fap_icon="kitty.png",
+    stack_size=6 * 1024,
+    fap_category="Tools",
+    fap_author="2elw",
+    fap_version="2.0.0",
+    fap_description="ESPHome sensor bridge with UART interface",
+)

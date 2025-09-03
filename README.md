@@ -29,7 +29,7 @@ Yes
 
 ## Installing & Running
 
-- First flash your esp32 with esphome [Esphome config](./esphome.yaml) for additional settings you will want on it, doing it now will make it easier.
-- Wire the ESP32 to the Kiisu see above for which need to be wired to where
-- See if the esp32 starts up once the Kiisu is connected to power again by checking the esphome dashboard or the built in web ui of the esp32 if enabled
-- Open the app (see releases for the download) and data should be send to the esp32 every minute after that
+1. First flash your esp32 with esphome [Esphome config](./esphome.yaml) for additional settings you will want on it, doing it now will make it easier.
+2. Wire the ESP32 to the Kiisu see above for which need to be wired to where
+3. See if the esp32 starts up once the Kiisu is connected to power again by checking the esphome dashboard or the built in web ui of the esp32 if enabled
+4. Open the app (see releases for the download) and data should be send to the esp32 every minute after that
